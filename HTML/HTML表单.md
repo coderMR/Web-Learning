@@ -68,6 +68,8 @@
 
 ![input_text](img/input_text.png)
 
+注释：value 属性值代表了输入框中的文本
+
 ---
 
 ### 单选按钮输入
@@ -137,6 +139,8 @@
 效果：
 
 ![input_submit](img/input_submit.png)
+
+注释：value 属性值代表了按钮上的文本
 
 ---
 
