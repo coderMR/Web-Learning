@@ -44,7 +44,7 @@ XML 是一种必须正确标记且格式良好的标记语言。
 
 * XHTML DOCTYPE 是强制性的
 * &lt;html&gt; 中的 XML namespace 属性是强制性的
-* &lt;html&gt;、&lt;head&gt、&lt;title&gt; 以及 &lt;body&gt; 也是强制性的
+* &lt;html&gt;、&lt;head&gt;、&lt;title&gt; 以及 &lt;body&gt; 也是强制性的
 
 #### 元素语法
 
