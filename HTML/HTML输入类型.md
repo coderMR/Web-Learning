@@ -166,7 +166,7 @@ HTML5 增加了多个新的输入类型：
 
 ---
 
-### 输入了下：number
+### 输入类型：number
 
 &lt;input type="number" /&gt; 用于应该保护数字值得输入字段。
 
