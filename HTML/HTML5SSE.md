@@ -55,6 +55,7 @@ if (typeof(EventSource) !== "undefined") {
 在上例中，我们使用 onmessage 事件来获取消息。不过还可以使用其他事件：
 
 | 事件 | 描述
+|------|-----
 | onopen | 当通往服务器的链接被打开
 | onmessage | 当接收到消息
 | onerror | 当发生错误
