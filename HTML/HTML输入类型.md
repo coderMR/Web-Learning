@@ -316,7 +316,7 @@ HTML5 增加了多个新的输入类型：
 
 效果：
 
-![input_type_range](img/input_type_range)
+![input_type_range](img/input_type_range.png)
 
 注释：能够使用 min、max、step、value 属性来限制。
 
