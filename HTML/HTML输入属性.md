@@ -377,6 +377,8 @@ formnovalidate 属性可用于 type="submit"。
 </html>
 ```
 
+---
+
 ### formtarget 属性
 
 formtarget 属性规定的名称或关键词指示提交表单后在何处显示接收到的响应。
