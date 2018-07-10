@@ -1,4 +1,4 @@
-# HTML5 Canvas vs. SVG
+# HTML5 Canvas vs SVG
 
 ---
 
