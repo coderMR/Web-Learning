@@ -125,10 +125,10 @@ Internet Explorer 8 不支持 audio 元素。在 IE 9 中，将提供对 audio �
 
 | 属性 | 值 | 描述
 |------|----|-----
-| [autoplay]() ![h5](img.h5.png) | autoplay | 如果出现该属性，则音频在就绪后马上播放
-| [controls]() ![h5](img.h5.png) | controls | 如果出现该属性，则向用户显示控件，比如播放按钮
-| [loop]() ![h5](img.h5.png) | loop | 如果出现该属性，则每当音频结束时重新开始播放
-| [preload]() ![h5](img.h5.png) | preload | 如果出现该属性，则音频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性
-| [src]() ![h5](img.h5.png) | url | 要播放的音频 URL
+| [autoplay]() ![h5](img/h5.png) | autoplay | 如果出现该属性，则音频在就绪后马上播放
+| [controls]() ![h5](img/h5.png) | controls | 如果出现该属性，则向用户显示控件，比如播放按钮
+| [loop]() ![h5](img/h5.png) | loop | 如果出现该属性，则每当音频结束时重新开始播放
+| [preload]() ![h5](img/h5.png) | preload | 如果出现该属性，则音频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性
+| [src]() ![h5](img/h5.png) | url | 要播放的音频 URL
 
 ---
